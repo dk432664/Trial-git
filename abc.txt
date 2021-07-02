@@ -4,9 +4,8 @@ sixth line
 you are muyy
 seventh commit
 hello abcddd
-<<<<<<< HEAD
->>>>>>> cf23119d2aae04b66b0b56740526cd05cf799a8b
+hello seven
 nineth
-=======
+hello 9
 eight line minus one
->>>>>>> adde4bf3f12e3f31fa7547d2dee937a315dcf1b2
+hello 11
