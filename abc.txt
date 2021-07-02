@@ -1,6 +1,6 @@
 this is the beginning line
 hello how are you
-<<<<<<< HEAD
+sixth line
 you are muyy
 =======
 hello abcddd
