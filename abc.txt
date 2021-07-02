@@ -2,6 +2,6 @@ this is the beginning line
 hello how are you
 sixth line
 you are muyy
-=======
+seventh commit
 hello abcddd
 >>>>>>> cf23119d2aae04b66b0b56740526cd05cf799a8b
